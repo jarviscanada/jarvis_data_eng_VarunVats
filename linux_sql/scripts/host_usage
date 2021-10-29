@@ -1,6 +1,4 @@
-
-
-        vmstat_mb=$(vmstat --unit M)
+mstat_mb=$(vmstat --unit M)
         hostname=$(hostname -f)
 
 
@@ -11,20 +9,4 @@
        disk_available=df -BM / | awk '{print $4}'
 
        timestamp=vmstat -t  | awk '{print $18,$19}'| tail -n1 | xargs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
