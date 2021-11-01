@@ -8,13 +8,13 @@ start)
     if [[ "$exists" == 2 ]]; then
       docker start "$2"
     else
-      echo 'Cannot able to start the specified container as it is not created'
+      echo "Cannot able to start the specified container as it is not created"
     fi
     exit $?
   ;;
  create)
     if [[ "$exists" == 2 ]]; then 
-      echo 'The container already exists!'
+      echo "The container already exists!"
     else
        #creates psql container with the given username and password
         docker pull postgres
@@ -26,7 +26,7 @@ start)
 	export PGPASSWORD='password'
 	psql -h localhost -U postgres -d postgres -W
     else 
-        echo 'username and password is missing'
+        echo "username and password is missing"
       fi
       exit $?
     fi

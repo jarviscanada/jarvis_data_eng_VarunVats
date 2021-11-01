@@ -15,14 +15,17 @@ memory_free=$(vmstat --unit M  |  awk '{print $4}' |tail -n1|  xargs)
 cpu_idle=$(vmstat --unit M |  awk '{print $15}' | tail -n1| xargs)
 cpu_kernel=$(vmstat --unit M |  awk '{print $13}' |tail -n1| xargs)
 disk_io=$( vmstat -d  |  awk '{print $10 }' | tail -n1| xargs)
-disk_availaible=$( df -BM / | awk '{print $4}'| tail -n1|xargs)
+disk_available=$(df -BM / | egrep "^/dev/sda2" | awk '{print $4}' | sed 's/.$//' | xargs)
+
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
-#Query to insert data into host_usage table
-insert_stmt="INSERT INTO host_usage (timestamp,host_id,memory_free,cpu_idle,cpu_kernel,disk_io,disk_availaible) VALUES('$timestamp',(SELECT id FROM host_info WHERE hostname='$hostname'),'$memory_free','$cpu_idle','$cpu_kernel','$disk_io','$disk_availaible')"
+
+insert_stmnt="INSERT INTO host_usage(host_id,memory_free,cpu_idle,cpu_kernel,disk_io,disk_available,timestamp) VALUES ((SELECT id FROM host_info WHERE hostname='$hostname'),'$memory_free','$cpu_idle','$cpu_kernel','$disk_io','$disk_available','$timestamp')"
+
 #Executing Insert statement through psql CLI tool
 export PGPASSWORD=$5
-psql -h localhost -p 5432 -U postgres -d host_agent -c "$insert_stmt"
-exit 0
+psql -h "$psql_host" -p "$psql_port" -d "$db_name" -U "$psql_user" -c "$insert_stmnt"
+exit $?
+
 
 
 
