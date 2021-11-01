@@ -1,2 +1,4 @@
 # Linux Cluster Monitoring Agent
-This project is under development. Since this project follows the GitFlow, the final work will be merged to the master branch after Team Code Team.
+# Introduction
+The Linux Clustering Monitoring agent allows users to manage cluster of nodes/ servers which are internally connected through switch and communicate through internal IPV4 addresses.
+This project allows users to record the hardware specifications of each node 
