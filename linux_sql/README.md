@@ -29,6 +29,7 @@ This section briefly describes the arcitecture and implementation of the system.
 
 # Architecture Design
 
+![images-project](https://user-images.githubusercontent.com/47187283/139780821-081d4418-6a6c-4bd9-ad9b-9fa1c791faa3.PNG)
 
 
 
