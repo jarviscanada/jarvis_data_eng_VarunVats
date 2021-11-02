@@ -25,7 +25,7 @@ Crontab setup script to automate data
 * * * * * bash /home/centos/dev/jrvs/bootcamp/linux_sql/host_agent/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log
 
 # Implementation
-This section briefly describes the arcitecture and implementation of the system.
+This section briefly describes the arcitecture and implementation of Linux Clustering Monioring Agent.
 
 # Architecture Design
 
