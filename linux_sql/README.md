@@ -75,7 +75,13 @@ Host_Info Table Schema:
 
 
 
+
+
+
+
 Host_usage Table:
+
+
 ![Host-usage(Table)](https://user-images.githubusercontent.com/47187283/139781244-2dbcb3ca-e539-4db7-8542-b704c6e4fbbb.PNG)
 
 
