@@ -95,4 +95,6 @@ The testing methods are used to check the functionality validation and debugging
 3.	Host_info.sh & host_usage.sh: These commands are tested on local system and verified by checking the psql database if values are stored in the database or not.
 
 # Improvements
-
+1. This project considers only few parameters for hardware specifications. Thus, more parameters can also be included to provide holistic view of the system.
+2. In this project, additional functionality can be added which alows the system to work on other operating systems as well.
+3. Additionally, a script can be implemented which allows for automatic implementation of psql instance eliminating the manual password insertion by users.
