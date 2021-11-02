@@ -82,7 +82,8 @@ Crontab: crontab is used to execute memory usage data i.e, host_usage repetedly 
 # Host_usage Table Schema:
 
 
-![Host(usage)](https://user-images.githubusercontent.com/47187283/139782076-bad04a73-91b5-4a05-9e58-3b2bd363429d.PNG)
+![host-usage 1](https://user-images.githubusercontent.com/47187283/139782250-6fa05185-5671-46bf-a2a3-0d26aa97cfb8.PNG)
+
 
 
 
