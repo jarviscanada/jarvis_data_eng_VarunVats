@@ -66,16 +66,7 @@ Crontab: crontab is used to execute memory usage data i.e, host_usage repetedly 
 
 Host_Info Table Schema:
 
-Attribute Name	Type	Description
-id	SERIAL PRIMARY KEY	This is the id for the host i.e., database
-hostname	VARCHAR UNIQUE	This is the name of the system
-cpu_number	INT	Number of CPU used for the processes
-cpu_architecture	VARCHAR	Architecture model used in the system
-cpu_model	INT	Type of model used in CPU for the process
-cpu_mhz	INT	CPU clock frequency (in MHz)
-l2_cache	INT	Size of L2 Caches in the memory
-total_memory	INT	Total memory used in the system in the processes
-timestamp	TIMESTAMP	The timestamp when values are collected
+![host(info)-Table](https://user-images.githubusercontent.com/47187283/139781067-e0dbecb8-c659-4c0b-997f-b148d8bda073.PNG)
 
 
 
