@@ -15,7 +15,6 @@ CREATE TABLE iF NOT EXISTS public.host_info
 	"timestamp" TIMESTAMP NOT NULL
 );
 
---Creates host_usage table only if it does not exist to store resource usage data
 CREATE TABLE if NOT EXISTS PUBLIC.host_usage
 (
 "timestamp" TIMESTAMP NOT NULL,
