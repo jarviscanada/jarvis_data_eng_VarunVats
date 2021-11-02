@@ -1,7 +1,5 @@
 # Linux Cluster Monitoring Agent
-<<<<<<< HEAD
-This project is under development. Since this project follows the GitFlow, the final work will be merged to the master branch after Team Code Team.
-=======
+
 # Introduction
 The Linux Clustering Monitoring Agent allows users to monitor the clusters/nodes of the specific system which are connected internally through switches. This project takes into consideration two important factors.
 
