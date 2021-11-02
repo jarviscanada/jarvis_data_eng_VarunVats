@@ -27,7 +27,7 @@ Crontab setup script to automate data
 # Implementation
 This section briefly describes the arcitecture and implementation of the system.
 
-#Architecture Design
+# Architecture Design
 
 
 
@@ -42,8 +42,7 @@ This section briefly describes the arcitecture and implementation of the system.
 
 
 
-
-#Scripts
+# Scripts
 The scripts are written in bash for performing the specified tasks in the project.
 Psql_docker.sh: This script is written to initialize a docker container which contains the psql image along with volume data that acts like a physical hard drive and postgres image which performs the basic initialization of psql instance. Finally, the data is being stored in the psql database.
 ./scripts/psql_docker.sh start|stop|create (db_username)(db_password)
@@ -62,7 +61,7 @@ Crontab: crontab is used to execute memory usage data i.e, host_usage repetedly 
 
 * * * * * bash /path/to/linux_sql/scripts/host_usage.sh psql_host port db_name psql_user psql_password &> /tmp/host_usage.log
 
-#Database Modelling
+# Database Modelling
 
 Host_Info Table Schema:
 
@@ -95,11 +94,11 @@ disk_io	INT	Number of disk i/o
 disk_availaible	INT	Amount of available disk space in system
 
 
-#Test
+# Test
 The testing methods are used to check the functionality validation and debugging. These testing methods are explained further.
 1.	Bash-x : This command is used for debugging process and entails the brief description of the program
 2.	Psql docker.sh : The validation of this command is tested on the terminal using bash command and docker volume is used to check if volume data is created which is used as a physical hard drive.
 3.	Host_info.sh & host_usage.sh: These commands are tested on local system and verified by checking the psql database if values are stored in the database or not.
 
-#Improvements
+# Improvements
 
