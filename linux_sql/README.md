@@ -76,14 +76,8 @@ Host_Info Table Schema:
 
 
 Host_usage Table:
-Attribute Name	Type	Description
-timestamp	TIMESTAMP	The timestamp when values are collected
-hostid	SERIAL	Host id of the system taken from host_info table and is used as foreign key
-memory_free	INT	Free memory in the system
-cpu_idle	INT	Amount of time cpu is in ideal state. Calculated in percentage
-cpu_kernel	INT	Amount of time processer in kernel mode. Calculated in percentage
-disk_io	INT	Number of disk i/o
-disk_availaible	INT	Amount of available disk space in system
+![Host-usage(Table)](https://user-images.githubusercontent.com/47187283/139781244-2dbcb3ca-e539-4db7-8542-b704c6e4fbbb.PNG)
+
 
 
 # Test
