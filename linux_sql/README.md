@@ -1,7 +1,5 @@
 # Linux Cluster Monitoring Agent
-<<<<<<< HEAD
-This project is under development. Since this project follows the GitFlow, the final work will be merged to the master branch after Team Code Team.
-=======
+
 # Introduction
 The Linux Clustering Monitoring Agent allows users to monitor the clusters/nodes of the specific system which are connected internally through switches. This project takes into consideration two important factors.
 
@@ -97,13 +95,10 @@ The testing methods are used to check the functionality validation and debugging
 2.	Psql docker.sh : The validation of this command is tested on the terminal using bash command and docker volume is used to check if volume data is created which is used as a physical hard drive.
 3.	Host_info.sh & host_usage.sh: These commands are tested on local system and verified by checking the psql database if values are stored in the database or not.
 
-<<<<<<< HEAD
-#Improvements
 
->>>>>>> feature/psql_docker
-=======
+
 # Improvements
 1. This project considers only few parameters for hardware specifications. Thus, more parameters can also be included to provide holistic view of the system.
 2. In this project, additional functionality can be added which alows the system to work on other operating systems as well.
 3. Additionally, a script can be implemented which allows for automatic implementation of psql instance eliminating the manual password insertion by users.
->>>>>>> feature/psql_docker
+
