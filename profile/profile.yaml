@@ -1,5 +1,5 @@
 # Preferred name (Characters only)
-name: Varun Kumar Vats"
+name: Varun Kumar Vats
 # Your GitHub repo root URL
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_VarunVats
 
@@ -116,8 +116,8 @@ others:
       - "Spark and Python for Big Data with Pyspark(Udemy)"
   - title: "Awards"
     bullets:
-      - "Chair"
+      - "Chair, Young Professionals(IEEE)"
   - title: "Activities/Hobbies"
     bullets:
-      - "Organized serveral technical and non technical events"
+      - "Chair, IEEE: Organized serveral technical and non technical events"
       - "Gudje, MasseyHacks:Coding Hackathorn for school students"
