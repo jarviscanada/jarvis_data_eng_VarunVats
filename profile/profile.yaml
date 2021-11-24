@@ -1,0 +1,123 @@
+# Preferred name (Characters only)
+name: Varun Kumar Vats"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_VarunVats
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a graduate student from University of Windsor specializing in IOT and Machine Learning implementations. During my course of studies, I published a couple of conference papers in IEEE focusing on implementation and use cases in the healthcare industry alonside working on my thesis. The thesis focuses on reducing the average time spent in queue by patients.The work of research instigated the mentality of effectively understanding the problem to debug it in correct way possible.Currently, I am working with Jarvis to gain and expand my skills by working on various projects in different programming languages such as Linux, SQL, Java, and Python in an agile environment.  
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Python
+    - Data Analytics
+    - Data Warehousing
+    - Tableau
+    - Power BI
+  # At least 5 skills
+  familiar:
+    - Apache Spark
+    - Apache Kafka
+    - Scala
+    - Hadoop
+    - C++
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Linux Cluster Monitoring Agent(LCMA) is used to monitor and collect data of various hosts machines connected via network.The data collected consists of hardware specifications and system performance and is further stored in Postgres SQL Database which is an RDBMS using Docker Containers. Bash scripts are used in this project for intialising PSQL container using Docker,and monitoring the hardware specifications and system performance data. This project also uses crontab to collect and generate real-time data and provide statistics for resource utilisation.Finally, the monitoring agent sends data to a database for storage and further analysis.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Machine Learning for C-Section Analysis"
+    #URL is optional
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: This project focuses on performing predictive analytics for determining sucess or failure of C- Section based on current medical condition such as blood pressure, heart rate, and respiration rate. The data is further processed and modelled using Unsupervised Machine Learning algorithms.
+  - name: "Machine Learning for Liver Disease Prediction"
+    description: This project focuses on performing a comparative analysis of Liver Disease Prediction based on content of enzymes found in the body. The data is further cleaned and organized using standard data mining algorithms using Python standard Libraries. Finally, data modelling is performed and further comparison is done to determine the appropriate method for a particular Liver Disease Dataset.
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Data Engineer"
+    company: "Jarvis"
+    duration: "2021-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Collaborating with an agile team following Scrum and Sprint principles. Developing applications using wide range of technologies ranging from Bash Scripting, Java, Python, Spark, Scala, to Linux inside dockerized environment."
+  - title: "Graduate and Research Assistant"
+    company: "University of Windsor"
+    duration: "2017-2019"
+    description: "This project focuses on performing a comparative analysis of Liver Disease Prediction based on content of enzymes found in the body. The data is further cleaned and organized using standard data mining algorithms using Python standard Libraries. Finally, data modelling is performed and further comparison is done to determine the appropriate method for a particular Liver Disease Dataset."
+
+#List of edcuation
+education: 
+  - school_name: "University of Windsor"
+    duration: "2017-2019"
+    degree: "Masters  of Applied Sciences"
+    department: "Electrical and Computer Engineering"
+    # optional
+    awards_achievements: 
+      - "Golden Award"
+      - "University of Windsor (2019)"
+      - "GPA: 3.8/4.0"
+  - school_name: "APJAKTU"
+    duration: "2017-2019"
+    degree: "Bachelor of Technology"
+    department: "Electronics  and Comminication Engineering"
+    awards_achievements: 
+       - "Gold Award"
+       - "Faculty of Engineering"
+       - "GPA: 4.0/5.0"
+
+
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Spark and Python for Big Data with Pyspark(Udemy)"
+  - title: "Awards"
+    bullets:
+      - "Chair"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Organized serveral technical and non technical events"
+      - "Gudje, MasseyHacks:Coding Hackathorn for school students"
