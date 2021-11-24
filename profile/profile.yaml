@@ -1,0 +1,89 @@
+
+name: "Varun Kumar Vats"
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_Varun
+
+summary: Highly motivated data analyst with 3+ years of experience in data science involving data cleaning, data manipulation, and creating reports and visualizations specializing in large data sets.Good understanding of data science tools and techniques for effective working of an organization with experience working with agile ecosystem.Proven creative problem solving, organizational, project management and critical reasoning skills, highly adaptable with good interpersonal and communication skills, delivered exceptional projects individually and as a team with a high level of attention and detail.
+
+skills:
+  
+  proficient:
+    - Python
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Data Analytics
+ 
+  competent:
+    - Microsoft Office
+    - MySQL
+    - Power BI
+    - Tableau
+    - Apache Spark
+  
+  familiar:
+    - Data Warehousing
+    - Hadoop
+    - Cloud Computing
+    - Apache Kafka
+    - Apache Snowflake
+
+
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    description: Linux Cluster Monitoring Agent(LCMA) is used to monitor and collect data of various host machines which are connected through a network. The data consists of hardware specifications and CPU performance is stored in the form of a cluster. This clustered data is stored in Postgres SQL database using Docker containers. Further, the bash scripts are used to monitor this data and crontab is used to collect real-time data and generate statistics accordingly. In this project, monitoring agent is used to transfer the data to the database for further analysis.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: "
+      - "JDBC App: "
+      - "Grep App: "
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+  
+
+professional_experience:
+  - title: "Data Coordinator"
+    company: "Kelly Services"
+    duration: "October 2020- October 2021"
+    description: "Collaborate with development team to prepare interactive dashboards for apple related products and services to identify key performance indicators (KPIs).
+Conducted detailed analysis for failed projects to identify the root cause of the issue and provide recommendations accordingly.
+Collaborate with data science team for understanding data models foundations, testing, and monitoring on regular basis
+"
+  - title: "Data Science Fellowship"
+    company: "Sharpest Minds"
+    duration: "October 2019- October 2020"
+    description: "Analyzed building utility meter data from ASHRAE Great Energy Predictor Dataset, comprising information on electricity, cold water, hot water, and steam consumption for around 1000 buildings across the globe over a three-year timeframe.
+ Performed exploratory data analysis to identify, analyze, and interpret trends in weather data affecting meter readings on weekly, monthly, and yearly basis.
+ Predicted utility meter readings from building data (location, number of floors, square feet, etc.) and weather data (air temperature, dew temperature, sea level pressure, etc.) using boosting algorithms (XGB, Cat Boost, Gradient) and deep learning models (RNN, CNN).
+ Carried out a comparative analysis of different Machine Learning and Deep Learning models using RMSLE, MSE, MAPE, and RMSE as evaluation metrices."
+
+education: 
+  - school_name: "University of Windsor"
+    duration: "2017-2019"
+    degree: "Masters of Applied Sciences"
+    department: "Electrical and Computer Engineering"
+    awards_achievements: 
+      - "Gold Medal for academic excellence"
+      - "Entrance Scholarship"
+      - "GPA: 3.9/4.0"
+  - school_name: "APJAKTU"
+    duration: "2012-2016"
+    degree: "Bachelor of Technology"
+    department: "Electronics  and Communication Engineering"
+
+
