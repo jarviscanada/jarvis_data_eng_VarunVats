@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec8977ea-a5af-430d-899a-02edacabcd75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../core_java/.idea/.idea.core_java.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/.idea/.idea.core_java.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/.idea/core_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/grep-demo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/out/grep_2021-11-18_153843.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jarvis/apps/practice/src/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/apps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice/src/main/java/ca/jrvs/practice/LambdaStreamExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/test/java/ca/jrvs/apps/grep/JavaGrep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/src/test/java/ca/jrvs/apps/grep/JavaGrepImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/target/classes/ca/jarvis/apps/practice/src/Regex$RegexExcClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../core_java/grep/target/classes/ca/jarvis/apps/practice/src/Regex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../core_java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../core_java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/src/main/java/ca/jrvs/practice/dataStructure/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice/target/practice-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21HzIlmh4CMxXp63do5H11JQkkI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../core_java/grep/src/main/java/ca/jrvs/apps/practice" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8977ea-a5af-430d-899a-02edacabcd75" name="Changes" comment="" />
+      <created>1637612722663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637612722663</updated>
+      <workItem from="1637612723803" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
