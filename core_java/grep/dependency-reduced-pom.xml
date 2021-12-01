@@ -28,8 +28,13 @@
     </plugins>
   </build>
   <properties>
+<<<<<<< HEAD
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
+=======
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+>>>>>>> 4b4bf9ea295b21077c156ffefec67f5af3fe72d4
   </properties>
 </project>
 

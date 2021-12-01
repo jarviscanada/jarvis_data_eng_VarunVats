@@ -1,17 +1,15 @@
 package ca.jrvs.apps.grep;
 
-//import com.sun.org.slf4j.internal.Logger;
-import org.slf4j.Logger;
-//import com.sun.org.slf4j.internal.LoggerFactory;
-import org.slf4j.LoggerFactory;
+import com.sun.org.slf4j.internal.LoggerFactory;
 import org.apache.log4j.BasicConfigurator;
 
 import java.io.*;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class JavaGrepImp implements JavaGrep{
 
-    final Logger logger = LoggerFactory.getLogger(JavaGrep.class);
+    final System.Logger logger = LoggerFactory.getLogger(JavaGrep.class);
 
     private String regex;
     private String rootPath;
