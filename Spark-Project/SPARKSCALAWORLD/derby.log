@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Dec 01 14:24:28 EST 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017d-7774-91b6-000010875d90 
-on database directory C:\Users\vatsv\SPARKSCALAWORLD\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7eb27768 
+Wed Dec 01 16:24:55 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017d-77e2-d929-0000130a2810 
+on database directory C:\Users\vatsv\SPARKSCALAWORLD\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7d133fb7 
 Loaded from file:/C:/Users/vatsv/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Amazon.com Inc.
 java.runtime.version=1.8.0_312-b07
