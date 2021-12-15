@@ -1,5 +1,5 @@
 # Preferred name (Characters only)
-name: Varun Kumar Vats
+name: "Varun Kumar Vats"
 # Your GitHub repo root URL
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_VarunVats
 
@@ -41,25 +41,8 @@ jarvis_projects:
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
-
+      - "JDBC App: The JDBC application developed primarily in Java deals with an RDBMS database and data manipulation is done using OOP concept such as Data Access Objects (DAO), Data Transfer Objects(DTO), and various other interfaces that joins both the java programming side and the relational database. At the core of this application, are the abilities to perform create, read, update, and delete operations from a RDBMS in a dockerized container of a PSQL instance. Apart from Java implementations in the project, MAVEN, Docker, PostgresSQL, and CLI are all interconnected to produce this application. The heart of the project lies in the concept of JDBC API which allows Java programs to access database management systems , and perform operations from a Java program interface."
+      - "Grep App: The grep application in Java simulates the grep command used in Linux Bash  to search for a particular regex pattern from an input file. As a result, the program goes through serveral checks in main program to search for a pattern and once the pattern is found , it returns the ouput in the form of .txt file. This application is tested for an example file stored in root directory. The very famous Romeo Juliet pattern was used an input pattern in the Shaksphere file and output returns the pattern in the lines and store the results in an output .txt file. This project is build using MAVEN and deployment is done using Docker container."
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
@@ -77,35 +60,29 @@ professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
   - title: "Data Engineer"
     company: "Jarvis"
-    duration: "2021-present"
+    duration: "October 2021-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Collaborating with an agile team following Scrum and Sprint principles. Developing applications using wide range of technologies ranging from Bash Scripting, Java, Python, Spark, Scala, to Linux inside dockerized environment."
   - title: "Graduate and Research Assistant"
     company: "University of Windsor"
-    duration: "2017-2019"
+    duration: "September 2017- October 2019"
     description: "This project focuses on performing a comparative analysis of Liver Disease Prediction based on content of enzymes found in the body. The data is further cleaned and organized using standard data mining algorithms using Python standard Libraries. Finally, data modelling is performed and further comparison is done to determine the appropriate method for a particular Liver Disease Dataset."
 
 #List of edcuation
 education: 
   - school_name: "University of Windsor"
-    duration: "2017-2019"
+    duration: "September 2017-October 2019"
     degree: "Masters  of Applied Sciences"
     department: "Electrical and Computer Engineering"
-    # optional
-    awards_achievements: 
-      - "Golden Award"
-      - "University of Windsor (2019)"
-      - "GPA: 3.8/4.0"
+    awards_achievements:
+      - "Gold Medal"
+      - "University of Windsor"
+      - "GPA : 3.9/ 4.0"
   - school_name: "APJAKTU"
-    duration: "2017-2019"
+    duration: "August 2012-August 2016"
     degree: "Bachelor of Technology"
     department: "Electronics  and Comminication Engineering"
-    awards_achievements: 
-       - "Gold Award"
-       - "Faculty of Engineering"
-       - "GPA: 4.0/5.0"
-
-
+    awards_achievements:
 
 #Optional section
 others:
@@ -120,4 +97,4 @@ others:
   - title: "Activities/Hobbies"
     bullets:
       - "Chair, IEEE: Organized serveral technical and non technical events"
-      - "Gudje, MasseyHacks:Coding Hackathorn for school students"
+      - "Judge, MasseyHacks:Coding Hackathorn for school students"
