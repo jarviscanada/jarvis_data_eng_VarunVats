@@ -42,16 +42,11 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_VarunVats]
 - University of Windsor (2019)
 - GPA: 3.8/4.0
 
-**APJAKTU (2017-2019)**, Bachelor of Technology, Electronics  and Comminication Engineering
+**APJAKTU (2012-2016)**, Bachelor of Technology, Electronics  and Comminication Engineering
 - Gold Award
 - Faculty of Engineering
 - GPA: 4.0/5.0
 
-## Education
-**University of Windsor (September 2017-October 2019)**, Masters  of Applied Sciences, Electrical and Computer Engineering
-- Gold Medal
-- University of Windsor
-- GPA : 3.9/ 4.0
 
 ## Miscellaneous
 - Spark and Python for Big Data with Pyspark(Udemy)
