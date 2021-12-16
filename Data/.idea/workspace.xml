@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b379a21f-73d1-45bd-9b93-e7daaec4f99f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/JDBC-Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/src/main/java/DataBaseConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/src/main/java/JDBCExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core_java/jdbc/src/main/java/ca/jrvs/apps/src/main/java/ca/jrvs/apps/jdbc/DatabaseConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/src/main/scala/ca/jrvs/App.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="21ckTVUGmbXOfWNgMvH0pp3iKQf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b379a21f-73d1-45bd-9b93-e7daaec4f99f" name="Changes" comment="" />
+      <created>1638247773349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638247773349</updated>
+      <workItem from="1638247775268" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
