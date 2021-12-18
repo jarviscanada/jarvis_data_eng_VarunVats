@@ -1,5 +1,6 @@
 package ca.jrvs.apps.grep;
 
+import com.sun.org.slf4j.internal.Logger;
 import com.sun.org.slf4j.internal.LoggerFactory;
 import org.apache.log4j.BasicConfigurator;
 
@@ -9,7 +10,7 @@ import java.util.List;
 
 public class JavaGrepImp implements JavaGrep{
 
-    final System.Logger logger = LoggerFactory.getLogger(JavaGrep.class);
+    final Logger logger = LoggerFactory.getLogger(JavaGrep.class);
 
     private String regex;
     private String rootPath;
