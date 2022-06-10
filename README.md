@@ -4,11 +4,11 @@ I am a graduate student from University of Windsor specializing in IOT and Machi
 
 ## Skills
 
-**Proficient:** Java, Linux, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Java, Linux, SQL, Git, Bash, Confluence, Jira, Bitbucket, Jenkins, UCD
 
-**Competent:** Python, Data Analytics, Data Warehousing, Tableau, Power BI
+**Competent:** Python, Data Analytics, Tableau, Terraform, Selenium, Junit, Mockito
 
-**Familiar:** Apache Spark, Apache Kafka, Scala, Hadoop, C++
+**Familiar:**  Apache Spark, Apache Kafka, Scala, C, C++, Datadog, AWS, Golang
 
 ## Jarvis Projects
 
@@ -30,6 +30,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_VarunVats]
 
 
 ## Professional Experiences
+
+**Software Developer, National Bank (Jan 2022-Jun 2022)**: Collaborating with an agile team following Scrum and Sprint principles. Developed end-to-end-infrastructure using Selenium for monitoring Order Update Status application. Performed backend operations as a Junior Developer for migrating applications from Java 8 to Java 11 alongside resolving Junit and Mockito unit tests and deploying the applications on to the server following CI/CD operations onto Jenkins. Collaborated with cross-functional team for developing an online tool to extract endpoints from Swagger and using them for creating synthetic tests over to Datadog utilizing Terraform as Infrastructure as Code platform
 
 **Data Engineer, Jarvis (2021-present)**: Collaborating with an agile team following Scrum and Sprint principles. Developing applications using wide range of technologies ranging from Bash Scripting, Java, Python, Spark, Scala, to Linux inside dockerized environment.
 
